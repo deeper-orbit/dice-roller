@@ -44,7 +44,7 @@ A simple Android dice roller built with Kotlin and Jetpack Compose.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dice-roller.git
+   [git clone https://github.com/your-username/dice-roller.git](https://github.com/deeper-orbit/dice-roller.git)
    ```
 2. Open the project in Android Studio.
 3. Sync Gradle dependencies.
