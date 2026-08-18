@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Kotlin
+.kotlin/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Environment / secrets
+.env
+.env.*
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Android
+captures/
+debug.keystore
+
+# OS
+.DS_Store
+Thumbs.db

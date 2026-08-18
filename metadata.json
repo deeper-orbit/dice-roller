@@ -1,0 +1,7 @@
+{
+  "name": "Dice Roller",
+  "description": "Minimalist Material 3 dice roller app with dynamic geometric shapes and rolling animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
