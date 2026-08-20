@@ -77,12 +77,6 @@ com/deeperorbit/diceroller/
 
 ## Getting Started
 
-### Prerequisites
-
-- Android Studio Hedgehog or newer
-- JDK 17 or higher
-- Android SDK with `minSdk` 24 and `targetSdk` 36
-
 ### Installation
 
 1. Clone the repository:
