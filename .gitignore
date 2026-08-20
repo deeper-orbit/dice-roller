@@ -1,0 +1,56 @@
+# Gradle
+.gradle/
+build/
+*/build/
+*.gradle.kts.bin
+
+# Kotlin
+.kotlin/
+.kotlin-daemon/
+
+# Android Studio & IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Local configuration
+local.properties
+
+# Environment / secrets & Keys
+.env
+.env.*
+*.jks
+*.keystore
+debug.keystore
+debug.keystore.base64
+
+# Native build
+.externalNativeBuild/
+.cxx/
+cmake/
+
+# Android build outputs & captures
+captures/
+output.json
+*.apk
+*.aab
+*.ap_
+
+# Testing & Profiling
+app/build/reports/
+app/build/test-results/
+.navigation/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
