@@ -2,6 +2,7 @@
 .gradle/
 build/
 */build/
+<<<<<<< HEAD
 *.gradle.kts.bin
 
 # Kotlin
@@ -17,10 +18,20 @@ build/
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
+=======
+
+# Kotlin
+.kotlin/
+
+# Android Studio
+.idea/
+*.iml
+>>>>>>> 2fe01b030831f670b9caa8486d7e34065d6b3e14
 
 # Local configuration
 local.properties
 
+<<<<<<< HEAD
 # Environment / secrets & Keys
 .env
 .env.*
@@ -28,10 +39,16 @@ local.properties
 *.keystore
 debug.keystore
 debug.keystore.base64
+=======
+# Environment / secrets
+.env
+.env.*
+>>>>>>> 2fe01b030831f670b9caa8486d7e34065d6b3e14
 
 # Native build
 .externalNativeBuild/
 .cxx/
+<<<<<<< HEAD
 cmake/
 
 # Android build outputs & captures
@@ -54,3 +71,13 @@ app/build/test-results/
 .Trashes
 ehthumbs.db
 Thumbs.db
+=======
+
+# Android
+captures/
+debug.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+>>>>>>> 2fe01b030831f670b9caa8486d7e34065d6b3e14
