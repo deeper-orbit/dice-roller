@@ -1,3 +1,5 @@
+<img width="1280" height="456" alt="github banner " src="https://github.com/user-attachments/assets/5f668488-32e7-4e16-9bfc-19036dd8be4d" />
+
 # Dice Roller
 
 A modern, tactile Android application featuring dynamic geometric morphing dice and an interactive decision oracle built with Kotlin and Jetpack Compose (Material 3).
