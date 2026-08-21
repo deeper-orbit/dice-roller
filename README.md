@@ -7,7 +7,8 @@ A modern, tactile Android application featuring dynamic geometric morphing dice 
 
 ## Features
 
-![animation](https://github.com/user-attachments/assets/21800e7c-57e6-4b8b-8f50-19b6490449ec)
+<img width="320" height="320" alt="animation gif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c386e76f-53c8-4bf8-8099-812799c07b6e" />
+
 
 
 - **Fluid Geometric Morphing**: Smooth continuous shape morphing animations (circle, squircle, triangle, square, pentagon, hexagon) using cubic Bézier paths matching Google Material 3 design specifications.
