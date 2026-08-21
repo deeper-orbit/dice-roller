@@ -6,6 +6,7 @@
 A modern, tactile Android application featuring dynamic geometric morphing dice and an interactive decision oracle built with Kotlin and Jetpack Compose (Material 3).
 
 ## Features
+![animation](https://github.com/user-attachments/assets/e0693729-52e2-48bd-be91-8d38c6ab06fb)
 
 - **Fluid Geometric Morphing**: Smooth continuous shape morphing animations (circle, squircle, triangle, square, pentagon, hexagon) using cubic Bézier paths matching Google Material 3 design specifications.
 - **Interactive "Maybe" Oracle (Yes / No)**: 3D flipping card decision maker with Thumb Up (YES) and Thumb Down (NO) animations, dynamic emerald green (YES) and crimson red (NO) screen color transitions, and tactile haptics.
