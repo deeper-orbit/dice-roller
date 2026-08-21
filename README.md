@@ -1,4 +1,5 @@
-<img width="1280" height="456" alt="github banner " src="https://github.com/user-attachments/assets/5f668488-32e7-4e16-9bfc-19036dd8be4d" />
+<img width="1280" height="456" alt="github banner" src="https://github.com/user-attachments/assets/160a01c0-66b3-4ca1-8c20-9e72349f5114" />
+
 
 # Dice Roller
 
